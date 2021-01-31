@@ -8,7 +8,7 @@ Get APP ID and API HASH from [HERE](https://my.telegram.org) and BOT TOKEN from 
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot%2Ftree%2Fbugs&template=https%3A%2F%2Fgithub.com%2Fsandy1709%2Fcatuserbot)
 
-[![catuserbot logo](https://telegra.ph/file/7e1e89621fabbf02596f8.jpg)](https://heroku.com/deploy?template=https://github.com/DhruvChhura/ProjectRyzo)
+[![Ryzo logo](https://telegra.ph/file/4d3c8c5ee9b4670bae634.jpg)](https://heroku.com/deploy?template=https://github.com/DhruvChhura/ProjectRyzo)
 
 
 ### Join [here](https://t.me/ProjectRyzo) for updates and tuts and [here](https://t.me/ProjectRyzo) for discussion and bugs
